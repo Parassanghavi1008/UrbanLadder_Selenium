@@ -1,5 +1,4 @@
-# UrbanLadder_Selenium
-#  Cucumber Selenium Automation Testing
+# UrbanLadder(Cucumber Selenium Automation Testing)
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Urban_Ladder_Logo.png" alt="Urban Ladder" width="300">

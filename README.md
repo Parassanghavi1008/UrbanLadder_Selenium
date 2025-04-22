@@ -1,8 +1,9 @@
 # UrbanLadder(Cucumber Selenium Automation Testing)
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Urban_Ladder_Logo.png" alt="Urban Ladder" width="300">
+  <img src="https://drive.google.com/uc?export=view&id=1pLlXERnTIfksQypX0o9XAviltdhyV7c-" alt="Urban Ladder" width="300">
 </p>
+
 
 ##  Introduction
 

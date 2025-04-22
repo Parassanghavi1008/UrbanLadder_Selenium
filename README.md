@@ -29,7 +29,7 @@ To create a robust, maintainable, and scalable test automation framework that en
 
 2. **Search Functionality**  
    - Enter `"Sofa"` in the search bar  
-   - Verify product listings appear
+   - Verify that product listings appear
 
 3. **Filter Application**  
    - Apply Price filter  
@@ -37,12 +37,12 @@ To create a robust, maintainable, and scalable test automation framework that en
 
 4. **Add to Cart**  
    - Click a product  
-   - Switch to new tab  
+   - Switch to a new tab  
    - Add the product to cart  
    - Confirm it's added
 
 5. **Checkout Process**  
-   - Navigate to cart  
+   - Navigate to the cart  
    - Simulate checkout  
    - Enter dummy shipping details  
    - Reach the payment page (simulation)
@@ -57,9 +57,6 @@ UrbanLadder_Selenium/
 │       │   ├── pageObject/        
 │       │   ├── stepdefinitions/   
 │       │   │   ├── AddToCartPageSteps.java
-│       │   │   ├── BaseClass.java
-│       │   │   ├── CheckoutPageSteps.java
-│       │   │   ├── FilterPageSteps.java
 │       │   │   ├── HomePageSteps.java
 │       │   │   └── SearchPageSteps.java
 │       │   └── testrunner/
@@ -67,8 +64,6 @@ UrbanLadder_Selenium/
 │       └── resources/
 │           └── features/          
 │               ├── AddtoCart.feature
-│               ├── CheckoutPage.feature
-│               ├── FilterPage.feature
 │               ├── HomePage.feature
 │               └── SearchPage.feature
 ├── target/                        
